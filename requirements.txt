@@ -1,0 +1,8 @@
+ultralytics
+torch
+torchvision
+Flask
+Pillow
+numpy
+matplotlib
+requests
